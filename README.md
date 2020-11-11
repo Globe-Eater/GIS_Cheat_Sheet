@@ -17,7 +17,7 @@ Connect new folder in ArcCatalog.
 
 # Vector Tools:
 <ul>
-<li><b>Clip (Analysis Tools)/<b> Removes all features outside the selected area and combines layers within the section.</li>
+<li><b>Clip (Analysis Tools)</b> Removes all features outside the selected area and combines layers within the section.</li>
   <li><b>Merge (   </b></li>
 <li><b>Intersect ( </b> </li>
 <li><b>Dissolve ( </b> </li>
