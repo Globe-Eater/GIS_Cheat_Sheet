@@ -5,7 +5,7 @@ Connect new folder in ArcCatalog.
 <ol>
 <li> Click Customize. </li>
 <li> Select Extensions. </li>
-<li> Check Spatial Analyst. <li>
+<li> Check Spatial Analyst. </i>
 </ol>
 
 # Setting Enviroment:
@@ -17,8 +17,8 @@ Connect new folder in ArcCatalog.
 
 # Vector Tools:
 <ul>
-<li><b>Clip (Analysis Tools)<b> Removes all features outside the selected area and combines layers within the section.</li>
-<li><b>Merge (   </li>
+<li><b>Clip (Analysis Tools)/<b> Removes all features outside the selected area and combines layers within the section.</li>
+  <li><b>Merge (   </b></li>
 <li><b>Intersect ( </b> </li>
 <li><b>Dissolve ( </b> </li>
 <li><b>Buffer ( </b> </li>
